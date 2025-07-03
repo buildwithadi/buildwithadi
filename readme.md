@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwithadi&label=Profile%20views&color=0e75b6&style=flat" alt="buildwithadi" /> </p>
 
+- 🌱 I’m currently learning **Generative and Agentic AI**
+
+- 💬 Ask me about **Artificial Intelligence, Data Science, Python, Django**
+
+- 📫 How to reach me **adityarawat.online@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/buildwithadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buildwithadi" height="30" width="40" /></a>
